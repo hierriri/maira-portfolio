@@ -1,0 +1,62 @@
+body {
+
+font-family: Arial;
+margin:0;
+background:#0f172a;
+color:white;
+
+}
+
+
+section {
+
+padding:80px;
+text-align:center;
+
+}
+
+
+.hero {
+
+min-height:80vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+
+}
+
+
+h1 {
+
+font-size:45px;
+
+}
+
+
+.card,
+.project {
+
+background:#1e293b;
+
+padding:20px;
+
+margin:20px;
+
+border-radius:15px;
+
+}
+
+
+a {
+
+background:white;
+
+padding:15px 30px;
+
+border-radius:30px;
+
+text-decoration:none;
+
+color:black;
+
+}
